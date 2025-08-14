@@ -1,0 +1,58 @@
+[
+  {
+    "year": "1990",
+    "title": "Event One",
+    "description": "This is the description for event one.",
+    "imageURL": "images/event1.jpg",
+    "category": "History"
+  },
+  {
+    "year": "1995",
+    "title": "Event Two",
+    "description": "This is the description for event two.",
+    "imageURL": "images/event2.jpg",
+    "category": "Science"
+  },
+  {
+    "year": "2000",
+    "title": "Event Three",
+    "description": "This is the description for event three.",
+    "imageURL": "images/event3.jpg",
+    "category": "Technology"
+  },
+  {
+    "year": "2005",
+    "title": "Event Four",
+    "description": "This is the description for event four.",
+    "imageURL": "images/event4.jpg",
+    "category": "Culture"
+  },
+  {
+    "year": "2010",
+    "title": "Event Five",
+    "description": "This is the description for event five.",
+    "imageURL": "images/event5.jpg",
+    "category": "Sports"
+  },
+  {
+    "year": "2015",
+    "title": "Event Six",
+    "description": "This is the description for event six.",
+    "imageURL": "images/event6.jpg",
+    "category": "Politics"
+  },
+  {
+    "year": "2018",
+    "title": "Event Seven",
+    "description": "This is the description for event seven.",
+    "imageURL": "images/event7.jpg",
+    "category": "Environment"
+  },
+  {
+    "year": "2022",
+    "title": "Event Eight",
+    "description": "This is the description for event eight.",
+    "imageURL": "images/event8.jpg",
+    "category": "Health"
+  }
+]
